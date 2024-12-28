@@ -1,7 +1,8 @@
 # The codes and datsets of TAI manuscript.
 
 ## 1. Environment
-
+filepath: root directory
+filename: /requirements.txt
 
 ## 2. Data preprocessing
 

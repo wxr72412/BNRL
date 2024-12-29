@@ -33,18 +33,12 @@ This enable the parameters of BNRL to be compared with comparison methods.
 Calculate 3 error metrics (i.e, MSE, MAE, and KL divergence) based on the original and learned BNML by BNRL, EM, IEM, DEBN, TRIP, RPL and ARPL.
 
 ## 5. Comparison methods
-(1) (filepath: \EM.pyIEM)   
-EM  
-(2) (filepath: \Improved_EM.py)  
-IEM  
-(3) (filepath: \DEBN.pyTRIP)  
-DEBN  
-(4) (filepath: \TRIP.py)  
-TRPL  
-(5) (filepath: \dynRNN_BN.py)  
-RPL  
-(6) (filepath: \dynAERNN_BN.py)  
-ARPL
+(1) EM (filepath: \EM.pyIEM)   
+(2) IEM (filepath: \Improved_EM.py)  
+(3) DEBN (filepath: \DEBN.pyTRIP)   
+(4) TRPL (filepath: \TRIP.py)  
+(5) RPL (filepath: \dynRNN_BN.py)  
+(6) ARPL (filepath: \dynAERNN_BN.py)  
 
 ## 6. Probabilistic inference
 (1) (filepath: \BNML\toy-5-inference)   

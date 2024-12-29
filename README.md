@@ -4,7 +4,7 @@
 filepath: /requirements.txt
 
 ## 2. Data preprocessing
-Download 4 BN datasets in BIF format from http://www.bnlearn.com/bnrepository/ and execute data preprocessing.
+Download 4 BN datasets in BIF format from the bnrepository and execute data preprocessing.
 
 (1) (filepath: \data\bn\a1_plot_bn.py)  
 Visualize the DAG structure of BN.  
